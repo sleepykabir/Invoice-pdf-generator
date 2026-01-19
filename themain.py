@@ -71,7 +71,7 @@ c.drawCentredString(
 y -= 0.5 * cm
 c.drawCentredString(
     width / 2, y,
-    "H/P: +88 01******, TEL.: +88 01******, E-mail: salmankkabir0068@gmail.com"
+    "H/P: +88 01******, TEL.: +88 01******, E-mail: salmankabir0068@gmail.com"
 )
 
 y -= 0.7 * cm
@@ -149,3 +149,4 @@ c.drawText(text)
 c.save()
 
 print("Invoice PDF generated successfully!")
+
