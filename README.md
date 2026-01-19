@@ -23,8 +23,8 @@ pip install reportlab num2words
 ## Demo
 
 ### Running the program in terminal:
-![Terminal Input](images/terminal_input.png)
+![Terminal Input](Scrennshots/terminal_input.png)
 
 ### Generated invoice PDF sample:
-![Invoice Output](images/invoice_output.png)
+![Invoice Output](Scrennshots/invoice_output.png)
 
