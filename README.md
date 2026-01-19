@@ -19,3 +19,12 @@ A simple Python program that generates professional PDF invoices using the Repor
 ## Installation
 ```bash
 pip install reportlab num2words
+
+## Demo
+
+### Running the program in terminal:
+![Terminal Input](images/terminal_input.png)
+
+### Generated invoice PDF sample:
+![Invoice Output](images/invoice_output.png)
+
